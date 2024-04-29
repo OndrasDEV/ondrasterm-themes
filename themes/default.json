@@ -1,0 +1,8 @@
+{
+    "success": "[{Fore.GREEN}success{Style.RESET_ALL}] {message}",
+    "error": "[{Fore.RED}error{Style.RESET_ALL}] {message}",
+    "notice": "[{Fore.BLUE}notice{Style.RESET_ALL}] {message}",
+    "warning": "[{Fore.YELLOW}warning{Style.RESET_ALL}] {message}",
+    "shell_input": "{message} "
+
+}

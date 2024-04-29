@@ -1,0 +1,8 @@
+{
+    "themes": [
+        {
+            "name": "default",
+            "url": "https://raw.githubusercontent.com/outplace/ondrasterm-themes/main/themes/default.json"
+        }
+    ]
+}
